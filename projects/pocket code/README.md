@@ -3,7 +3,14 @@
 
 --> A platform designed exclusively for teenagers aged 13 to 18, where passion meets opportunity
 
-[Phone version](https://www.figma.com/proto/qh57f386vM3XnqQ7hWwo3H/Pocket-Code-application-app-?page-id=0%3A1&node-id=92-405&starting-point-node-id=92%3A405&scaling=scale-down&content-scaling=fixed&t=u3Clv6dov14DHtRq-1)
+
+## Prototypes
+
+### Phone version
+--> [Phone Version Prototype](https://www.figma.com/proto/qh57f386vM3XnqQ7hWwo3H/Pocket-Code-application-app-?page-id=0%3A1&node-id=92-405&starting-point-node-id=92%3A405&scaling=scale-down&content-scaling=fixed&t=u3Clv6dov14DHtRq-1)
+
+### Laptop version
+--> [Laptop Version Prototype](https://www.figma.com/proto/oj8cNGAhznNTwbCIK4SC8j/pocket-code?page-id=2%3A2&node-id=124-144&starting-point-node-id=124%3A144&scaling=scale-down&content-scaling=fixed&t=Kiu1ZgKOjKlBC385-1)
 ## Introduction
 Pocket Code is a revolutionary mobile and web application designed to provide teenagers aged 13 to 18 with the opportunity to earn pocket money while enhancing their coding skills. The app is built with parental oversight in mind, ensuring a safe and responsible environment for both teens and their families. With the growing demand for coding professionals, Pocket Code offers a platform for young learners to get hands-on experience with real-world coding projects. Whether you're a beginner or an experienced coder, Pocket Code allows you to take on projects that match your skill level, helping you grow professionally while earning money, all with the peace of mind that comes from parental involvement.
 
