@@ -1,4 +1,4 @@
-## Pocket Code 
+# Pocket Code 
 --> Empowering Teens to Code and Earn!
 
 --> A platform designed exclusively for teenagers aged 13 to 18, where passion meets opportunity
@@ -32,6 +32,9 @@ Pocket Code is a mobile and web application designed specifically for teenagers 
 
 ## Workflow
 
+-->[Workflow](https://www.figma.com/board/BTKxT0xYVJiYQHWeY4v0mP/POCKET-CODE?node-id=0-1&t=MOE7S8HIFEiXEsR6-1) 
+
+### Here is the Pocket code Workflow : -
 1. **Sign Up & Profile Creation**:
    - Teenagers create a profile by signing up with basic details, including skills and interests.
    - Parents can link their account for oversight and monitoring.
