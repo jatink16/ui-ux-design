@@ -1,3 +1,3 @@
 # ui-ux-design
-designs
-Hi this repository is design
+
+Hi, This repository is for designs and other stuffs
